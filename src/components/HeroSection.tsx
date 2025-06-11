@@ -41,14 +41,14 @@ export default function HeroSection() {
               variants={childVariants}
             >
               {personalInfo.name}{" "}
-              <span className="inline-block animate-pulse">✨</span>
+              <span className="inline-block animate-pulse">​​🔘​​​</span>
             </motion.h1>
 
             <motion.p
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Software Engineer 👨‍💻
+             Ingeniero de Sistemas | Especialista Gerencia de Proyectos e Inteligencia de Negocios | MBA 👨‍💻
             </motion.p>
 
             <motion.div
@@ -122,15 +122,44 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 Passionate software engineer with a versatile skill set
-              spanning multiple domains. I thrive on solving complex challenges
-              across different platforms and environments, adapting quickly to
-              new technologies and methodologies. My holistic approach combines
-              technical expertise with creative problem-solving, allowing me to
-              develop solutions that are both innovative and practical. I'm
-              driven by continuous learning and a commitment to excellence,
-              whether working independently or collaborating with diverse teams
-              to create impactful, scalable solutions.
+              <p>🚀 Ingeniero de Sistemas con 19 años de experiencia en tecnología.Experto en arquitectura de software, liderazgo de equipos y
+                  transformación digital. Cuento con un MBA en Administración de Negocios y una sólida experiencia en la implementación
+                  de soluciones tecnológicas, así como en la gestión de equipos multidisciplinarios siguiendo los estándares del
+                  PMI y gestión de proyectos agiles agregando valor a los productos y creando equipos de trabajo de alto
+                  desempeño. </p>
+                  <br />
+                  <p>Experiencia en la gestión de proyectos de tecnología de la información y desarrollo de software y
+                  TIC, planificación, ejecución, seguimiento y cierre de proyectos, así como la gestión de recursos, presupuestos y
+                  tiempos.</p>
+                  
+                  <br />
+                  <p>
+                  Experiencia en la dirección de proyectos de Inteligencia Artificial enfocado en el desarrollo y la implementación
+                  de sistemas de procesamiento de lenguaje natural (NLP) utilizando modelos generativos avanzados como
+                  ChatGPT, llamaIndex, Qwen, RAG y Machine Learning. Experiencia en Digital Performance Managment en
+                  ecosistemas digitales el diseño e Implementación de estrategias de Observabilidad, integración de arquitecturas
+                  de Software, y estrategias de optimización continua.</p>
+
+                   <br />
+                  <p>
+                  Experiencia en Liderazgo de departamentos de tecnología, áreas de soporte técnico (Mesas de Ayuda), proyectos
+                  de desarrollo de Software, redes, servidores onPremise y Cloud (AWS,Azure), ERP’s (Zeus), Creación de
+                  presupuestos anuales, planeación estratégica, Balance Score Card, gestión de proveedores.</p>
+
+                                    <br />
+                  <p>
+                  Alta experiencia como líder técnico con conocimientos en arquitectura de software, habilidades en captura, diseño
+                  y gestión de requerimientos, lenguaje de modelado UML, bases de datos relacionales y no relacionales,
+                  infraestructura tecnológica, Java, Salesforce, Python, conocimientos en SOA y Web Services Rest, experiencia
+                  en Tecnologías Low Code como Power Apps y experiencia en Análisis de Datos con Power BI, DataLakes y
+                  DataWhare House. Experiencia en Transformación Digital aplicando tecnologías como IA Generativa, Chatbots,
+                  Arquitectura SOA y Microservicios, Aplicaciones mobiles, Landing Page.</p> 
+
+                  
+                                    <br />
+                  <p>
+                  Experiencia profesional en sector educación, seguros, financiero, contexto humanitario, salud, hotelería y turismo,
+                  tecnología.</p>
             </p>
           </div>
         </MotionWrapper>
