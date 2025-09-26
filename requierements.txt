@@ -1,0 +1,4 @@
+git clone https://github.com/[usuario]/modern-dev-portfolio.git
+cd modern-dev-portfolio
+npm install
+npm run dev
